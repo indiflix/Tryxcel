@@ -39,7 +39,7 @@ const MissionVisionPage = () => {
   const principles = [
     {
       title: 'Innovation at Core',
-      description: 'We believe innovation is not just about technology—it's about solving real-world problems in creative ways.',
+      description: 'We believe innovation is not just about technology - it is about solving real-world problems in creative ways.',
     },
     {
       title: 'Human-Centric Design',
