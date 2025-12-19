@@ -38,7 +38,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-20">
           <Link to="/" className="flex items-center space-x-3">
             <img
-              src="logo.png"
+              src="/logo.png"
               alt="Tryxcel Technologies"
               className="h-12 w-auto"
             />
