@@ -151,7 +151,7 @@ const ContactPage = () => {
                     </div>
                     <div>
                       <h3 className="font-semibold text-lg mb-1">Email</h3>
-                      <p className="text-gray-600">info@tryxcel.com</p>
+                      <p className="text-gray-600">office@tryxcel.com</p>
                       <p className="text-gray-600">support@tryxcel.com</p>
                     </div>
                   </CardContent>
@@ -164,7 +164,7 @@ const ContactPage = () => {
                     </div>
                     <div>
                       <h3 className="font-semibold text-lg mb-1">Phone</h3>
-                      <p className="text-gray-600">+91 (XXX) XXX-XXXX</p>
+                      <p className="text-gray-600">+91 7676432134 </p>
                       <p className="text-gray-600">Mon-Fri, 9AM-6PM IST</p>
                     </div>
                   </CardContent>
@@ -180,7 +180,8 @@ const ContactPage = () => {
                       <p className="text-gray-600">
                         Tryxcel Technologies LLP<br />
                         Bangalore, Karnataka<br />
-                        India - 560001
+                        Sigma Tech Park, Alpha block 2nd Floor<br />
+                        India - 560066
                       </p>
                     </div>
                   </CardContent>
