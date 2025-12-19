@@ -112,7 +112,7 @@ const HomePage = () => {
               Who We Are
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Founded by Krishna Raj & Ashutosh, Tryxcel Technologies LLP has been pioneering innovation in deep-tech engineering for over 15 years.
+              Founded by Shanmukh Srinivas & Himanshu Choudhary, Tryxcel Technologies LLP has been pioneering innovation in deep-tech engineering for over 15 years.
             </p>
           </div>
 

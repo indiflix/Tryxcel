@@ -27,7 +27,7 @@ const AboutPage = () => {
   ];
 
   const timeline = [
-    { year: '2010', event: 'Foundation', description: 'Tryxcel Technologies founded by Krishna Raj & Ashutosh' },
+    { year: '2010', event: 'Foundation', description: 'Tryxcel Technologies founded by Shanmukh Srinivas & Himanshu Choudhary' },
     { year: '2013', event: 'Expansion', description: 'Entered AI and embedded systems domain' },
     { year: '2017', event: 'Innovation', description: 'Launched wearable and display technology solutions' },
     { year: '2020', event: 'AI Evolution', description: 'Pioneered AI agentic systems and smart solutions' },
@@ -100,7 +100,7 @@ const AboutPage = () => {
                 <h3 className="text-2xl font-bold mb-2">Shanmukh Srinivas</h3>
                 <p className="text-[#1a5f7a] font-semibold mb-4">Co-Founder</p>
                 <p className="text-gray-600 leading-relaxed">
-                  With deep expertise in embedded systems and AI, Krishna Raj has been the driving force behind Tryxcel's technological innovations.
+                  With deep expertise in embedded systems and AI, Shanmukh Srinivas has been the driving force behind Tryxcel's technological innovations.
                 </p>
               </CardContent>
             </Card>
@@ -113,7 +113,7 @@ const AboutPage = () => {
                 <h3 className="text-2xl font-bold mb-2">Himanshu Choudhary</h3>
                 <p className="text-[#1a5f7a] font-semibold mb-4">Co-Founder</p>
                 <p className="text-gray-600 leading-relaxed">
-                  Ashutosh brings strategic vision and business acumen, ensuring Tryxcel remains at the cutting edge of technology and market trends.
+                  Himanshu Choudhary brings strategic vision and business acumen, ensuring Tryxcel remains at the cutting edge of technology and market trends.
                 </p>
               </CardContent>
             </Card>
