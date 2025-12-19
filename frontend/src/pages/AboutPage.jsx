@@ -56,7 +56,7 @@ const AboutPage = () => {
               <h2 className="text-4xl font-bold mb-6">Our Story</h2>
               <div className="space-y-4 text-lg text-gray-700 leading-relaxed">
                 <p>
-                  Founded over 15 years ago by visionary engineers Himanshu Choudhary and Sanmukh Srinivash, Tryxcel Technologies LLP began with a simple yet powerful mission: to transform ideas into intelligent reality.
+                  Founded over 15 years ago by visionary engineers Himanshu Choudhary and Shanmukh Srinivas, Tryxcel Technologies LLP began with a simple yet powerful mission: to transform ideas into intelligent reality.
                 </p>
                 <p>
                   What started as a passion for embedded systems has evolved into a comprehensive technology powerhouse, delivering cutting-edge solutions in AI, embedded engineering, display technologies, and wearable innovations.
@@ -97,7 +97,7 @@ const AboutPage = () => {
                 <div className="w-32 h-32 rounded-full bg-gradient-to-br from-[#1a5f7a] to-[#4db5c0] mx-auto mb-6 flex items-center justify-center">
                   <span className="text-4xl font-bold text-white">SS</span>
                 </div>
-                <h3 className="text-2xl font-bold mb-2">Sanmukh Srinivash</h3>
+                <h3 className="text-2xl font-bold mb-2">Shanmukh Srinivas</h3>
                 <p className="text-[#1a5f7a] font-semibold mb-4">Co-Founder</p>
                 <p className="text-gray-600 leading-relaxed">
                   With deep expertise in embedded systems and AI, Krishna Raj has been the driving force behind Tryxcel's technological innovations.
