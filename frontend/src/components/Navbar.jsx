@@ -38,7 +38,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-20">
           <Link to="/" className="flex items-center space-x-3">
             <img
-              src="https://customer-assets.emergentagent.com/job_30c33875-34c7-4a27-85e4-66bbc662605d/artifacts/jynyx66u_WhatsApp%20Image%202025-12-13%20at%2016.44.43.jpeg"
+              src="logo.png"
               alt="Tryxcel Technologies"
               className="h-12 w-auto"
             />
